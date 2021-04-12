@@ -1,7 +1,7 @@
 {
-  "name": "n-market",
+  "name": "Gulp",
   "version": "1.0.0",
-  "description": "Тестовая работа дл НМаркет",
+  "description": "Шаблон сборщика Gulp",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
