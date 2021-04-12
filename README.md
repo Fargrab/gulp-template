@@ -21,6 +21,10 @@
 
     gulp
 Если работаете с SVG. То все инструкции в описании п.6
+
+У кого проблемы с плагином WEBPCSS "Error: Cannot find module 'webp-converter/cwebp'". Решение:
+ 
+        npm install webp-converter@2.2.3 --save-dev
     
    
 ## Описание сборки.
